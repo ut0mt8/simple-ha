@@ -5,3 +5,4 @@ One is active, and the other is backup, launching script when changing state.
 Simple implementation, KISS. Production ready (at least it works for me :)
 
 
+# pmacct-example
